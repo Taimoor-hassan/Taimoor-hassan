@@ -24,37 +24,37 @@ Here are some ideas to get you started:
 <hr/>
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/ArslanAmeer#5079" style="color: #ccc">
+<a href="" style="color: #ccc">
   <img align="left" alt="Arslan's Discord" style="color: #ccc" width="22px" src="https://cdn.worldvectorlogo.com/logos/discord.svg" />
 </a>
-<a href="https://twitter.com/ThELeGenD_Says">
+<a href="">
   <img align="left" alt="Arslan's | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />
 </a>
-<a href="https://www.linkedin.com/in/arslanameer/">
+<a href="">
   <img align="left" alt="Arslan's LinkdeIN" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
 </a>
-<a href="https://www.instagram.com/lk2712/">
+<a href="">
   <img align="left" alt="Arslan's Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />
 </a>
-<a href="https://www.facebook.com/arslanameer2712">
+<a href="">
   <img align="left" alt="Arslan's Facebook" height="22px" src="https://cdn.worldvectorlogo.com/logos/facebook-4.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=ArslanAmeer.ArslanAmeer)
+![](https://visitor-badge.glitch.me/badge?page_id=Taimoor-hassan.Taimoor-hassan)
 
 <br />
 
-Hi, I'm [Arslan](www.arslanameer.com), a Full Stack Developer 🚀 from Pakistan, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@Tailorie](https://github.com/Tailorie), Mentor 👨🏽‍💼[@GeekCo](https://github.com/Geeky-Coder-Co), Freelancer :busts_in_silhouette: @ <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="arslanameer fiverr" width="16" height="16" /> <img src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" alt="arslanameer fiverr" width="16" height="16" /> and an Open Source contributer. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Taimoor](aimoor-hassan.github.io/portfolio/), a Full Stack Developer 🚀 from Pakistan, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@GOTLAW](https://github.com/GotLaw) Freelancer :busts_in_silhouette: @ <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="arslanameer fiverr" width="16" height="16" /> <img src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" alt="arslanameer fiverr" width="16" height="16" /> and an Open Source contributer.
 
-  <img align="right" alt="GIF" src="https://github.com/ArslanAmeer/ArslanAmeer/blob/master/assets/arslan-coding.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/Taimoor-hassan/Taimoor-hassan/blob/master/assets/arslan-coding.gif" width="500" height="320" />
 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Microservices using nodejs & AWS; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [contact@arslanameer.com](contact@arslanameer.com);
-- 📝 My [Portfolio](https://www.arslanameer.com/)
+- 📫 How to reach me: [taimoor98.th@gmail.com](taimoor98.th@gmail.com);
+- 📝 My [Portfolio](aimoor-hassan.github.io/portfolio/)
 
 **Languages and Tools:**  
 
