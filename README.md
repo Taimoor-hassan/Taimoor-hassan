@@ -25,36 +25,36 @@ Here are some ideas to get you started:
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="" style="color: #ccc">
-  <img align="left" alt="Arslan's Discord" style="color: #ccc" width="22px" src="https://cdn.worldvectorlogo.com/logos/discord.svg" />
+  <img align="left" alt="Taimoor's Discord" style="color: #ccc" width="22px" src="https://cdn.worldvectorlogo.com/logos/discord.svg" />
 </a>
-<a href="">
-  <img align="left" alt="Arslan's | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />
+<a href="https://twitter.com/Taimoor98_">
+  <img align="left" alt="Taimoor's | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />
 </a>
-<a href="">
-  <img align="left" alt="Arslan's LinkdeIN" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
+<a href="https://www.linkedin.com/in/taimoorhassan98/">
+  <img align="left" alt="Taimoor's LinkdeIN" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
 </a>
-<a href="">
-  <img align="left" alt="Arslan's Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />
+<a href="https://www.instagram.com/taimoor_hassan.98/">
+  <img align="left" alt="Taimoor's Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />
 </a>
-<a href="">
-  <img align="left" alt="Arslan's Facebook" height="22px" src="https://cdn.worldvectorlogo.com/logos/facebook-4.svg" />
+<a href="https://www.facebook.com/profile.php?id=100006391815516">
+  <img align="left" alt="Taimoor's Facebook" height="22px" src="https://cdn.worldvectorlogo.com/logos/facebook-4.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Taimoor-hassan.Taimoor-hassan)
 
 <br />
 
-Hi, I'm [Taimoor](aimoor-hassan.github.io/portfolio/), a Full Stack Developer 🚀 from Pakistan, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@GOTLAW](https://github.com/GotLaw) Freelancer :busts_in_silhouette: @ <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="arslanameer fiverr" width="16" height="16" /> <img src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" alt="arslanameer fiverr" width="16" height="16" /> and an Open Source contributer.
+Hi, I'm [Taimoor](aimoor-hassan.github.io/portfolio/), a Full Stack Developer 🚀 from Pakistan, currently, I'm a Project Collaborator 🙍🏽‍♂️ and Freelancer :busts_in_silhouette: @ <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="arslanameer fiverr" width="16" height="16" /> <img src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" alt="arslanameer fiverr" width="16" height="16" /> .
 
   <img align="right" alt="GIF" src="https://github.com/Taimoor-hassan/Taimoor-hassan/blob/master/assets/arslan-coding.gif" width="500" height="320" />
 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Microservices using nodejs & AWS; 
+- 🌱 I’m currently learning Django , AWS , REST Framework and Much More; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [taimoor98.th@gmail.com](taimoor98.th@gmail.com);
-- 📝 My [Portfolio](aimoor-hassan.github.io/portfolio/)
+- 📝 My [Portfolio](https://www.linkedin.com/in/taimoorhassan98/)
 
 **Languages and Tools:**  
 
