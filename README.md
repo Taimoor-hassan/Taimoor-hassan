@@ -180,7 +180,7 @@ C#                       5 repos             █░░░░░░░░░░�
    
    <div>
 <a href="https://github.com/Taimoor-hassan"><img src="https://github-readme-stats.Taimoor-hassan.vercel.app//api?username=Taimoor-hassan&count_private=true&show_icons=true&theme=dark&hide_border=true" width="350" align="right" /></a>
-<a href="https://github.com/Taimoor-hassan"><img src="https://arslan-github-streaks.herokuapp.com?user=arslanameer&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="350" /></a>
+<a href="https://github.com/Taimoor-hassan">[![GitHub Streak](http://arslan-github-streaks.herokuapp.com?user=Taimoor-hassan&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727)](https://git.io/streak-stats)</a>
 </div>
 <!--   [![Arslan GitHub Streak](https://arslan-github-streaks.herokuapp.com?user=arslanameer&theme=dark&date_format=M%20j%5B%2C%20Y%5D)]() -->
 
