@@ -110,7 +110,7 @@ Hi, I'm [Taimoor](aimoor-hassan.github.io/portfolio/), a Full Stack Developer �
 <hr/>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
+<!-- ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -132,10 +132,10 @@ Friday       103 commits    ███░░░░░░░░░░░░░░�
 Saturday     73 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.68% 
 Sunday       97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.53%
 
-```
+``` -->
 
 
-📊 **This Week I Spent My Time On** 
+<!-- 📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Karachi
@@ -156,8 +156,8 @@ Mac                      35 hrs 9 mins       ███████████�
 Windows                  4 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.13%
 
 ```
-
-**I Mostly Code in HTML** 
+ -->
+<!-- **I Mostly Code in HTML** 
 
 ```text
 HTML                     50 repos            █████████████░░░░░░░░░░░░   52.08% 
@@ -167,7 +167,7 @@ TypeScript               7 repos             █░░░░░░░░░░�
 C#                       5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.21%
 
 ```
-
+ -->
 
 
 <!--END_SECTION:waka-->
@@ -179,8 +179,8 @@ C#                       5 repos             █░░░░░░░░░░�
   <br>
    
    <div>
-<a href="https://github.com/arslanameer"><img src="https://github-readme-stats.arslanameer.vercel.app//api?username=ArslanAmeer&count_private=true&show_icons=true&theme=dark&hide_border=true" width="350" align="right" /></a>
-<a href="https://github.com/arslanameer"><img src="https://arslan-github-streaks.herokuapp.com?user=arslanameer&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="350" /></a>
+<a href="https://github.com/Taimoor-hassan"><img src="https://github-readme-stats.Taimoor-hassan.vercel.app//api?username=Taimoor-hassan&count_private=true&show_icons=true&theme=dark&hide_border=true" width="350" align="right" /></a>
+<a href="https://github.com/Taimoor-hassan"><img src="https://arslan-github-streaks.herokuapp.com?user=arslanameer&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="350" /></a>
 </div>
 <!--   [![Arslan GitHub Streak](https://arslan-github-streaks.herokuapp.com?user=arslanameer&theme=dark&date_format=M%20j%5B%2C%20Y%5D)]() -->
 
