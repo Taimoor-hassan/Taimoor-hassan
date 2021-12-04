@@ -178,8 +178,8 @@ C#                       5 repos             █░░░░░░░░░░�
   <summary>:zap: 📈 My GitHub Stats</summary>
   <br>
    
-<!--    <div>
-<a href="https://github.com/Taimoor-hassan"><img src="https://github-readme-stats.Taimoor-hassan.vercel.app//api?username=Taimoor-hassan&count_private=true&show_icons=true&theme=dark&hide_border=true" width="350" align="right" /></a> -->
+<div>
+<!-- <a href="https://github.com/Taimoor-hassan"><img src="https://github-readme-stats.Taimoor-hassan.vercel.app//api?username=Taimoor-hassan&count_private=true&show_icons=true&theme=dark&hide_border=true" width="350" align="right" /></a> -->
 <a href="https://github.com/arslanameer"><img src="https://arslan-github-streaks.herokuapp.com?user=Taimoor-hassan&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="350" /></a>
 </div>
 
