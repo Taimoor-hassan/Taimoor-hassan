@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 Hi, I'm [Taimoor](aimoor-hassan.github.io/portfolio/), a Full Stack Developer 🚀 from Pakistan, currently, I'm a Project Collaborator 🙍🏽‍♂️ and Freelancer :busts_in_silhouette: @ <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="arslanameer fiverr" width="16" height="16" /> <img src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" alt="arslanameer fiverr" width="16" height="16" /> .
 
-  <img align="right" alt="GIF" src="https://github.com/Taimoor-hassan/Taimoor-hassan/blob/master/assets/arslan-coding.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/ArslanAmeer/ArslanAmeer/blob/master/assets/arslan-coding.gif" width="500" height="320" />
 
 **Talking about Personal Stuffs:**
 
