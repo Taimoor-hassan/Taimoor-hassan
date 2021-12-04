@@ -104,7 +104,7 @@ Hi, I'm [Taimoor](aimoor-hassan.github.io/portfolio/), a Full Stack Developer ðŸ
 
 #### <img align="left" alt="Arslan's Spotify" width="75px" src="https://cdn.worldvectorlogo.com/logos/spotify-logo-with-text-1.svg"/> Now Playing ðŸŽ§ 
 
-[![Spotify](https://spotify-play.arslanameer.vercel.app/api/spotify)](https://open.spotify.com/user/mqjqw4pv2745llonloqsqlijc?si=wlRAdEdEQ5aPabN4e_KJXQ)
+[![Spotify](https://spotify-play.	xf7ie6msksr4a108jbixoqevo.vercel.app/api/spotify)](https://open.spotify.com/user/xf7ie6msksr4a108jbixoqevo?si=wlRAdEdEQ5aPabN4e_KJXQ&nd=1)
 
 
 <hr/>
