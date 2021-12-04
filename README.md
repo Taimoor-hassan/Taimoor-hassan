@@ -60,18 +60,18 @@ Hi, I'm [Taimoor](aimoor-hassan.github.io/portfolio/), a Full Stack Developer ðŸ
 
 
 <p align="left">
-<img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular-js" width="25" height="25" />
+<!-- <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular-js" width="25" height="25" /> -->
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
-<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" width="25" height="25" />
-<img src="https://cdn.worldvectorlogo.com/logos/less.svg" alt="less" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="25" height="25" />
+<!-- <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" width="25" height="25" /> -->
+<!-- <img src="https://cdn.worldvectorlogo.com/logos/less.svg" alt="less" width="25" height="25" /> -->
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="25" height="25" /> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
-<img src="https://www.netclipart.com/pp/m/137-1372012_net-logos-download-logo-microsoft-net.png" alt=".NET" width="25" height="25" />
-<img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt=".NET Core" width="25" height="25" />
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" /> -->
+<!-- <img src="https://www.netclipart.com/pp/m/137-1372012_net-logos-download-logo-microsoft-net.png" alt=".NET" width="25" height="25" /> -->
+<!-- <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt=".NET Core" width="25" height="25" /> -->
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="25" width="25">
-<img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="mongodb" width="25" height="25" />
+<!-- <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="mongodb" width="25" height="25" /> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
 <img src="https://banner2.cleanpng.com/20180817/csy/kisspng-microsoft-sql-server-microsoft-corporation-sql-ser-5b7663e3cd2565.5939753015344854758403.jpg" alt="mysql" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
@@ -86,15 +86,15 @@ Hi, I'm [Taimoor](aimoor-hassan.github.io/portfolio/), a Full Stack Developer ðŸ
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="25" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="25" height="25" >
 <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-6.svg" width="25" height="25" >
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" width="25" height="25" >
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="25" height="25" >
-  <img src="https://cdn.worldvectorlogo.com/logos/invision.svg" width="25" height="25" >
+<!--   <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" width="25" height="25" > -->
+<!--   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="25" height="25" > -->
+<!--   <img src="https://cdn.worldvectorlogo.com/logos/invision.svg" width="25" height="25" > -->
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="25" height="25" >
   <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="25" height="25" >
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" width="25" height="25" >
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="25" height="25" >
-  <img src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" width="25" height="25" >
-  <img src="https://cdn.worldvectorlogo.com/logos/resharperc-icon.svg" width="25" height="25" >
+<!--   <img src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" width="25" height="25" > -->
+<!--   <img src="https://cdn.worldvectorlogo.com/logos/resharperc-icon.svg" width="25" height="25" > -->
   <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="25" height="25" >
   <img src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" width="25" height="25" >
   <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="25" height="25" >
@@ -104,7 +104,7 @@ Hi, I'm [Taimoor](aimoor-hassan.github.io/portfolio/), a Full Stack Developer ðŸ
 
 #### <img align="left" alt="Arslan's Spotify" width="75px" src="https://cdn.worldvectorlogo.com/logos/spotify-logo-with-text-1.svg"/> Now Playing ðŸŽ§ 
 
-[![Spotify](https://spotify-play.	xf7ie6msksr4a108jbixoqevo.vercel.app/api/spotify)](https://open.spotify.com/user/xf7ie6msksr4a108jbixoqevo?si=wlRAdEdEQ5aPabN4e_KJXQ&nd=1)
+[![Spotify](https://spotify-play.xf7ie6msksr4a108jbixoqevo.vercel.app/api/spotify)](https://open.spotify.com/user/xf7ie6msksr4a108jbixoqevo?si=wlRAdEdEQ5aPabN4e_KJXQ&nd=1)
 
 
 <hr/>
