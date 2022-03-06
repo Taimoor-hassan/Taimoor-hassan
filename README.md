@@ -102,9 +102,9 @@ Hi, I'm [Taimoor](aimoor-hassan.github.io/portfolio/), a Full Stack Developer �
 
 <br />
 
-#### <img align="left" alt="Arslan's Spotify" width="75px" src="https://cdn.worldvectorlogo.com/logos/spotify-logo-with-text-1.svg"/> Now Playing 🎧 
+<!-- #### <img align="left" alt="Arslan's Spotify" width="75px" src="https://cdn.worldvectorlogo.com/logos/spotify-logo-with-text-1.svg"/> Now Playing 🎧  -->
 
-[![Spotify](https://spotify-play.xf7ie6msksr4a108jbixoqevo.vercel.app/api/spotify)](https://open.spotify.com/user/xf7ie6msksr4a108jbixoqevo?si=wlRAdEdEQ5aPabN4e_KJXQ&nd=1)
+<!-- [![Spotify](https://spotify-play.xf7ie6msksr4a108jbixoqevo.vercel.app/api/spotify)](https://open.spotify.com/user/xf7ie6msksr4a108jbixoqevo?si=wlRAdEdEQ5aPabN4e_KJXQ&nd=1) -->
 
 
 <hr/>
@@ -182,7 +182,5 @@ C#                       5 repos             █░░░░░░░░░░�
 <!-- <a href="https://github.com/Taimoor-hassan"><img src="https://github-readme-stats.Taimoor-hassan.vercel.app//api?username=Taimoor-hassan&count_private=true&show_icons=true&theme=dark&hide_border=true" width="350" align="right" /></a> -->
 <a href="https://github.com/arslanameer"><img src="https://arslan-github-streaks.herokuapp.com?user=Taimoor-hassan&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="350" /></a>
 </div>
-
-<!-- [![GitHub Streak](http://arslan-github-streaks.herokuapp.com?user=Taimoor-hassan&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727)](https://git.io/streak-stats) -->
 
 <hr/>
