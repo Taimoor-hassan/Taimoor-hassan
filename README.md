@@ -70,12 +70,12 @@ Hi, I'm [Taimoor](aimoor-hassan.github.io/portfolio/), a Full Stack Developer ðŸ
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" /> -->
 <!-- <img src="https://www.netclipart.com/pp/m/137-1372012_net-logos-download-logo-microsoft-net.png" alt=".NET" width="25" height="25" /> -->
 <!-- <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt=".NET Core" width="25" height="25" /> -->
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="25" width="25">
+<!-- <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="25" width="25"> -->
 <!-- <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="mongodb" width="25" height="25" /> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
-<img src="https://banner2.cleanpng.com/20180817/csy/kisspng-microsoft-sql-server-microsoft-corporation-sql-ser-5b7663e3cd2565.5939753015344854758403.jpg" alt="mysql" width="25" height="25" />
+<!-- <img src="https://banner2.cleanpng.com/20180817/csy/kisspng-microsoft-sql-server-microsoft-corporation-sql-ser-5b7663e3cd2565.5939753015344854758403.jpg" alt="mysql" width="25" height="25" /> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="25" height="25" />
+<!-- <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="25" height="25" /> -->
 <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="25" height="25" >
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="python" width="25" height="25" />
@@ -90,8 +90,8 @@ Hi, I'm [Taimoor](aimoor-hassan.github.io/portfolio/), a Full Stack Developer ðŸ
 <!--   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="25" height="25" > -->
 <!--   <img src="https://cdn.worldvectorlogo.com/logos/invision.svg" width="25" height="25" > -->
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="25" height="25" >
-  <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="25" height="25" >
-  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" width="25" height="25" >
+<!--   <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="25" height="25" > -->
+<!--   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" width="25" height="25" > -->
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="25" height="25" >
 <!--   <img src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" width="25" height="25" > -->
 <!--   <img src="https://cdn.worldvectorlogo.com/logos/resharperc-icon.svg" width="25" height="25" > -->
