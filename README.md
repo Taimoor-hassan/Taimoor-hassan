@@ -51,7 +51,7 @@ Hi, I'm [Taimoor](aimoor-hassan.github.io/portfolio/), a Full Stack Developer �
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Django , AWS , REST Framework and Much More; 
+- 🌱 I’m currently working in Python, Django , AWS , REST Framework and Much More; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [taimoor98.th@gmail.com](taimoor98.th@gmail.com);
 - 📝 My [Portfolio](https://www.linkedin.com/in/taimoorhassan98/)
